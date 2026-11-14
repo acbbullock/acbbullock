@@ -1,9 +1,9 @@
-<div align="center">
-
-# Austin Bullock
+# Hi there 👋
 
 Physicist and HPC software engineer. I write scientific software in modern
 Fortran, C and C++, and care about making it fast, portable, and correct.
+
+<div align="center">
 
 `↑ ↓ ↑ ↑ ↓ ↑ ↓ ↓ ↑ ↓ ↑ ↑ ↓ ↑`
 
