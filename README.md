@@ -27,8 +27,8 @@ Fortran, C and C++, and care about making it fast, portable, and correct.
 
 ## Interests
 
-Physics · math · scientific simulations · performance portability · numerical
-reproducibility · Fortran/C/C++ interoperability · language standards
+Physics · math · scientific simulations · performance portability ·
+Fortran/C/C++ interoperability · language standards
 
 Ask me anything about Fortran.
 
